@@ -1,10 +1,10 @@
-Hi, I’m @IdaresitEmmanuel. I'm a Flutter developer interested in mobile and web development. I have growing knowledge in Flutter, Dart, Java, Kotlin, SQL, and MongoDB. 
-I'm looking to collaborate on Flutter projects. You can reach me at idaresitimmanuel@gmail.com
+Hi, I’m @IdaresitEmmanuel. I'm a Flutter developer interested in mobile and web development. I have growing knowledge in Flutter, Dart, Java, Kotlin, SQL, MongoDB, and Firebase. 
+I'm looking to collaborate on Flutter and Android projects. You can reach me at idaresitimmanuel@gmail.com
 
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+<!-- - 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... -->
+- 💞️ I’m looking to collaborate on Flutter and Android projects.
+- 📫 How to reach me - You can reach me at idaresitimmanuel@gmail.com
 
 <!---
 IdaresitEmmanuel/IdaresitEmmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

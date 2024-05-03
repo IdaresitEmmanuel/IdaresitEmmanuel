@@ -1,8 +1,8 @@
-Hi, I’m @IdaresitEmmanuel. I'm a Flutter developer interested in mobile and web development. I have growing knowledge in Flutter, Dart, Java, Kotlin, SQL, MongoDB, and Firebase. 
+Hi, I’m @IdaresitEmmanuel. I'm a Flutter developer interested in mobile apps, web apps and games. I have growing knowledge in Flutter, Dart, Swift, Java, Kotlin
 
-<!-- - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... -->
-- 💞️ I’m looking to collaborate on Flutter and Android projects.
+<!-- - 👀 I’m interested in ... --> 
+- 🌱 I’m currently learning Game Development
+- 💞️ I’m looking to collaborate on Flutter(Dart), Android(Java & Kotlin, and iOS(Swift) projects.
 - 📫 How to reach me - You can reach me at idaresitimmanuel@gmail.com or https://www.instagram.com/emmanuel_idaresit
 
 <!---
